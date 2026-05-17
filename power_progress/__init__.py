@@ -1,0 +1,1 @@
+"""POWER PROGRESS application package."""
